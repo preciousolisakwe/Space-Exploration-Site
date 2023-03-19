@@ -1,0 +1,36 @@
+body {
+  margin: 0%;
+  color: rgb(230, 162, 61);
+  text-align: center;
+  font-family: "Orbitron", sans-serif;
+  text-shadow: 3px -1px rgba(10, 10, 10, 0.89);
+}
+
+.btn {
+  padding: 8px 15px;
+  background: rgb(230, 162, 61);
+  border: none;
+  font-family: "Orbitron", sans-serif;
+  font-weight: 900;
+}
+
+.underline {
+  border-bottom: 4px solid white;
+  padding: 5px 3px;
+}
+
+#main-logo {
+  width: 180px;
+}
+
+#hero {
+  background-image: url("jet.gif");
+  background-size: cover;
+  padding: 10px 0 380px 0;
+}
+
+.less-well {
+  font-size: larger;
+  font-style: italic;
+  font-weight: 900;
+}
